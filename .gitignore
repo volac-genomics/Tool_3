@@ -1,7 +1,7 @@
 /LIBRARY_query/*.gff
 
 /LIBRARY_reference/**
-!/LIBRARY_reference/README
+!/LIBRARY_reference/.README.md
 
 /input_custom_seq/*.fa
 !/input_custom_seq/test_sequences.fa
@@ -9,7 +9,7 @@
 /input_tool_3/*.gff
 
 /output_tool_3/**
-!/output_tool_3/README
+!/output_tool_3/.README.md
 
 work/
 .nextflow*
